@@ -1,2 +1,3 @@
 # Hello-World
 My test of the GitHub Respository...
+I am the new guy, like to work hard and smart.
